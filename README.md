@@ -9,7 +9,7 @@
 
 ---
 <div>
-  <img src="https://thumbs.dreamstime.com/z/programmer-developer-flat-style-illustration-white-background-isolated-character-ai-generated-335094504.jpg?w=768" alt="Profile Picture" width="450" height="250" align="center" style="margin-left: 20px ;">
+  <img src="https://thumbs.dreamstime.com/z/programmer-developer-flat-style-illustration-white-background-isolated-character-ai-generated-335094504.jpg?w=768" alt="Profile Picture" width="650" height="350" align="center" style="margin-left: 20px ;">
 </div>
 
 
