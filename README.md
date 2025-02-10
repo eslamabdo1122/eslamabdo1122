@@ -29,7 +29,7 @@ I'm a passionate **Flutter Developer** with hands-on experience in building cros
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Flutter Code Snippet](https://i.imgur.com/your-code.png)
 ---
 
 ## **Featured Projects**  
