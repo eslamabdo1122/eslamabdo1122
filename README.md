@@ -9,7 +9,7 @@
 
 ---
 <div>
-  <img src=["https://i.imgur.com/your-profile-picture.jpg](https://thumbs.dreamstime.com/b/programmer-developer-flat-style-illustration-white-background-isolated-character-ai-generated-335094504.jpg?w=768)" alt="Profile Picture" width="150" height="150" align="left" style="margin-right: 20px;">
+  <img src=["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fprogrammer-cartoon.html&psig=AOvVaw12vQeYQRYYbLwK2t72WTn-&ust=1739304487523000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjIt6z0uYsDFQAAAAAdAAAAABAE" alt="Profile Picture" width="150" height="150" align="left" style="margin-right: 20px;">
 </div>
 
 
