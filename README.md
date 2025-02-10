@@ -9,7 +9,7 @@
 
 ---
 <div>
-  <img src="https://thumbs.dreamstime.com/z/programmer-developer-flat-style-illustration-white-background-isolated-character-ai-generated-335094504.jpg?w=768" alt="Profile Picture" width="150" height="150" align="left" style="margin-right: 20px;">
+  <img src="https://thumbs.dreamstime.com/z/programmer-developer-flat-style-illustration-white-background-isolated-character-ai-generated-335094504.jpg?w=768" alt="Profile Picture" width="350" height="250" align="center" style="margin-right: 20px;">
 </div>
 
 
@@ -32,7 +32,8 @@ Hi there! 📍️ I'm **Eslam Abdelkader**, a passionate **Flutter Developer** f
 
 ### **Programming Languages**:  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+
 
 ### **Mobile Development**:  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
