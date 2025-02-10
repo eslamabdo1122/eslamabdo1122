@@ -1,4 +1,4 @@
-# Hi there, I'm Eslam Abdelkader 👋  
+# Hi, I'm Eslam Abdelkader 👋  
 
 ### Flutter Developer 💙  
 
@@ -14,7 +14,7 @@
 
 
 ## **About Me** 🟢  
-Hi there! 📍️ I'm **Eslam Abdelkader**, a passionate **Flutter Developer** from **Beni Suef, Egypt**. I specialize in creating functional, visually appealing mobile applications that deliver exceptional user experiences. With a strong foundation in **Dart** and **Flutter**, I bring innovative solutions to life, leveraging modern technologies and best practices.  
+Hi! 📍️ I'm **Eslam Abdelkader**, a passionate **Flutter Developer** from **Beni Suef, Egypt**. I specialize in creating functional, visually appealing mobile applications that deliver exceptional user experiences. With a strong foundation in **Dart** and **Flutter**, I bring innovative solutions to life, leveraging modern technologies and best practices.  
 
 ---
 
