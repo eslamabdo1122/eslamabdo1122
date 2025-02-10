@@ -30,8 +30,7 @@ I'm a passionate **Flutter Developer** with hands-on experience in building cros
 
 ---
 
-## **GitHub Stats**  
-![Eslam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eslamabdo1122&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eslamabdo1122&show_icons=true&theme=dracula&count_private=true)
 
 ---
 
