@@ -9,7 +9,7 @@
 
 ---
 <div>
-  <img src="https://thumbs.dreamstime.com/z/programmer-developer-flat-style-illustration-white-background-isolated-character-ai-generated-335094504.jpg?w=768" alt="Profile Picture" width="650" height="350" align="center" style="margin-left: 20px ;">
+  <img src="https://thumbs.dreamstime.com/z/programmer-developer-flat-style-illustration-white-background-isolated-character-ai-generated-335094504.jpg?w(https://media.istockphoto.com/id/2027690301/vector/backend-development-coding-and-programming-it-specialist-sit-and-write-code-on-a-laptop-for.jpg?s=1024x1024&w=is&k=20&c=VzQhT98CstzLpyfE96cMCqFBQKGUmqSvVl_MA7wpcWI=)=768" alt="Profile Picture" width="650" height="350" align="center" style="margin-left: 20px ;">
 </div>
 
 
